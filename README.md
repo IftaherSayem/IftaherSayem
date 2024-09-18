@@ -3,8 +3,7 @@
 - 🌱 I’m currently Studying && learning Programming
 - ✨ Reach me : m.facebook.com/Iftaher.Sayem205
 - ✨ Mail : iftahersayem205@gmail.com
-- ✨ Linkedin Profile : www.linkedin.com/in/
-iftaher-sayem
+- ✨ Linkedin Profile : www.linkedin.com/in/iftaher-sayem
 
 <!---
 IftaherSayem/IftaherSayem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
