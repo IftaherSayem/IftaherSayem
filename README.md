@@ -1,11 +1,5 @@
 - 👋 Hi, I’m @IftaherSayem
-- 👀 I’m interested in Programming
-- 🌱 I’m currently Studying && learning Programming
-- ✨ Reach me : www.facebook.com/Iftaher.Sayem205
-- ✨ Mail : iftahersayem205@gmail.com
-- ✨ Linkedin Profile : www.linkedin.com/in/iftaher-sayem
-
-- ##HELLO
+- 👀 Currently i'am studying and learning C++
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
